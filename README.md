@@ -1,3 +1,9 @@
+# First Redux App(Increment and Decrement Counter)
+
+![image](https://user-images.githubusercontent.com/95482684/152151763-e794ec12-8e2f-4aa9-a777-696a8a4ab072.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
